@@ -117,6 +117,8 @@ The program will:
 - If transcript fetching fails, make sure the video has captions or is not restricted.
 - Ensure your OpenAI API key is set correctly and has usage quota.
 - For any errors, check your internet connection and dependencies.
+- Make sure you are not using a VPN as most IPs from cloud providers are blocked by YouTube.
+
 
 
 ---
